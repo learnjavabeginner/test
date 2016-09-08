@@ -1,0 +1,2 @@
+Test Sample Text file
+UTF-8にしたので日本語入力出来るよ！！
